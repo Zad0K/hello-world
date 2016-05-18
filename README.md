@@ -1,2 +1,3 @@
 # hello-world
-Repository of my hello world project created in HTML5. Thanks to W3C.
+Zadok was a Loyal High Priest in ancient Israel.
+His outstanding example of loyalty is one we should all emulate.
